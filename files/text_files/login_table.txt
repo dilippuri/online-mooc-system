@@ -1,0 +1,57 @@
+mu0101,krosen,aa001
+mu0102,rikipoting,bb001
+csa0101,elamasri,aa002
+csa0102,navathe,aa003
+cam0101,larry peterson,aa004
+cam0102,bruce davie,aa005
+dxu0301,p j deitel,aa006
+dxu0302,h m deitel,aa007
+ou0201,larry page,aa008
+ou0202,devid golding,aa009
+lu0401,k runganathan,aa010
+lu0402,brate lee,aa011
+du0101,r ashwin,aa012
+du0102,arjun kapoor,aa013
+bp0201,sajay srivastva,aa014
+bp0202,aayushi patel,aa015
+da0301,asim banerajee,aa016
+da0302,ashok amin,aa017
+da0303,rahul muttu,aa018
+da0304,rahul dubey,aa019
+da0305,alka parikh,aa020
+iitb0401,manoj tiwari,aa021
+nsit0501,hitesh bharti,aa022
+tu0101,denn stenn,aa023
+tu0102,brayn lara,aa024
+au0101,n chakarborti,aa025
+au0102,m baron,aa026
+slu0101,c j date,aa027
+slu0102,james clark,aa028
+mit0101,james bond,bb002
+mit0102,tom kuk,bb003
+mit0103,salinee singh,bb004
+ngs0201,dilip puri,bb005
+ngs0202,john kerri,bb006
+yu0301,ching chang,bb007
+yu0302,bruce lee,bb008
+bu0401,ema barbra,bb009
+bu0402,k watson,bb010
+dk0501,benjmin frank,bb011
+ua0601,authur benjamin,bb012
+ua0602,vivek singh,bb013
+um0701,michel denn,bb014
+pu0801,p m jat,bb015
+pu0802,david corman,bb016
+hu0901,brac obama,bb017
+ucla1001,k bilton,bb018
+uv1101,naresh jha,bb019
+uv1102,maria sarapova,bb020
+sa1201,mohit sharma,bb021
+sa1202,coll temm,bb022
+uc1301,henry bolt,bb023
+su1401,denial vitory,bb024
+su1402,glenn maxvel,bb025
+iiith0601,narayan suthar,bb026
+iiith0602,d caatman,bb027
+iitk0701,ravi saran,bb028
+iitk0702,dhirendra sinha,bb029

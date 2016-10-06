@@ -1,0 +1,57 @@
+mu0101,krosen,krosen@mu.com,austrilia,mu01
+mu0102,rikipoting,riki@mu.com,austrilia,mu01
+csa0101,elamasri,elamas@csa.com,canada,csa01
+csa0102,navathe,navathe@csa.com,canada,csa01
+cam0101,larry peterson,lpeter@cam.com,england,cam01
+cam0102,bruce davie,bdavie@cam.com,china,cam01
+dxu0301,p j deitel,pjdeit@dxu.com,usa,dxu03
+dxu0302,h m deitel,hmdeit@dxu.com,usa,dxu03
+ou0201,larry page,lpage@ou.com,england,ou02
+ou0202,devid golding,dgolding@ou.com,austrilia,ou02
+lu0401,k runganathan,krunga@lu.com,india,lu04
+lu0402,brate lee,blee@lu.com,austrilia,lu04
+du0101,r ashwin,rashwin@du.com,india,du01
+du0102,arjun kapoor,akapoor@du.com,india,du01
+bp0201,sajay srivastva,ssrivastva@bp.com,india,bp02
+bp0202,aayushi patel,apatel@bp.com,india,bp02
+da0301,asim banerajee,abanerajee@da.in,india,da03
+da0302,ashok amin,aamin@da.com,india,da03
+da0303,rahul muttu,rmuttu@da.com,india,da03
+da0304,rahul dubey,rdubey@da.com,india,da03
+da0305,alka parikh,aparikh@da.com,india,da03
+iitb0401,manoj tiwari,mtiwari@iitb.com,india,iitb04
+nsit0501,hitesh bharti,hbharti@nsit.com,india,nist05
+tu0101,denn stenn,dstenn@tu.com,south africa,tu01
+tu0102,brayn lara,blara@tu.com,west indies,tu01
+au0101,n chakarborti,nchakarborti@au.com,india,au01
+au0102,m baron,mbaron@au.com,england,au01
+slu0101,c j date,cjdate@slu.com,uk,slu01
+slu0102,james clark,jclark@slu.com,uk,slu01
+mit0101,james bond,jbond@mit.com,england,mit01
+mit0102,tom kuk,tkuk@mit.com,usa,mit01
+mit0103,salinee singh,kuku@mit.com,india,mit01
+ngs0201,dilip puri,dpuri@ngs.com,india,ngs02
+ngs0202,john kerri,jkerri@ngs.com,usa,ngs02
+yu0301,ching chang,cchang@yu.com,china,yu03
+yu0302,bruce lee,blee@yu.com,china,yu03
+bu0401,ema barbra,ebarbra@bu.com,usa,bu04
+bu0402,k watson,kwatson@bu.com,usa,bu04
+dk0501,benjmin frank,bfranklin@dk.com,england,dk05
+ua0601,authur benjamin,abenjamin@ua.com,usa,ua06
+ua0602,vivek singh,vsingh@ua.com,india,ua06
+um0701,michel denn,mdenn@ua.com,newzealand,um07
+pu0801,p m jat,pmjat@pu.com,india,pu08
+pu0802,david corman,dcorman@pu.com,usa,pu08
+hu0901,brac obama,bobama@hu.com,usa,hu09
+ucla1001,k bilton,kbilton@ucla.com,usa,ucla10
+uv1101,naresh jha,njha@uv.com,india,uv11
+uv1102,maria sarapova,msarapova@uv.com,russia,uv11
+sa1201,mohit sharma,msharma@sa.com,india,sa12
+sa1202,coll temm,ctemm@sa.com,usa,sa12
+uc1301,henry bolt,hbolt@uc.com,england,uc13
+su1401,denial vitory,dvitory@su.com,newzealand,su14
+su1402,glenn maxvel,gmaxvel@su.com,austrilia,su14
+iiith0601,narayan suthar,nsuthar@iiith.com,india,iiith06
+iiith0602,d caatman,dcaatman@iiith.com,usa,iiith06
+iitk0701,ravi saran,rsaran@iitk.com,india,iitk07
+iitk0702,dhirendra sinha,dsinha@iitk.com,india,iitk07
