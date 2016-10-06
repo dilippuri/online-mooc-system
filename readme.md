@@ -22,9 +22,6 @@ This project will lead us to understand the important aspects of Database and SQ
 
 Other Collaborators
 -----------------
-Dilip Puri[I'm an inline-style link](https://www.google.com)
-Vivek Kumar Singh
-Chirag Panpalia
 
  Name       		| Github Account	|
 | --------------------- |:---------------------:|
