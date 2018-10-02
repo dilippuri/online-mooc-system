@@ -27,4 +27,4 @@ Other Collaborators
 | --------------------- |:---------------------:|
 | Chirag Panpalia	| [@chirag1p1](https://github.com/chirag1p1)	|
 | Vivek Kumar Singh     | [@VivekProHaker](https://github.com/VivekProHacker)      	|
-
+| Akash Banchhor | [@ashu369](https://github.com/ashu369)|
